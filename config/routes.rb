@@ -9,4 +9,7 @@ Rails.application.routes.draw do
 
   # session routes
   post "/sessions" => "sessions#create"
+
+  # characters routes
+  get "/characters" => "characters#download"
 end

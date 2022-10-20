@@ -21,3 +21,10 @@ Content-Type: application/json
   "email": "test@test.com",
   "password": "password"
 }
+
+# CHARACTER TESTS
+
+### Character pdf download
+GET http://localhost:3000/characters
+Content-Type: application/json
+
