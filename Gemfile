@@ -49,3 +49,5 @@ end
 gem 'http'
 
 gem 'jwt'
+
+gem "prawn", "~> 2.4"
