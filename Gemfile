@@ -51,3 +51,5 @@ gem 'http'
 gem 'jwt'
 
 gem "prawn", "~> 2.4"
+
+gem "pdf-toolkit", "~> 1.1"
